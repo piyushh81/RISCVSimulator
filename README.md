@@ -1,4 +1,4 @@
-# Risc V Simulation Software
+# RISC V Simulation Software
 This is a simulation software for RISC-V(32 bit)! It converts assembly instructions to machine instructions. It can be implemented with\without pipeline. It supports forwarding as well as stalling. Cache support is also included along with branch prediction.
 
 
